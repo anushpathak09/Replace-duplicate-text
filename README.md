@@ -8,7 +8,7 @@
 <hr>
 <hr>
 <h2> <b> CODE SNAP </b>
-<img src=" https://github.com/anushpathak09/Replace-duplicate-text/blob/main/replace-duplicate_text%20Code%20Snap.png ">
+<img src="https://github.com/anushpathak09/Replace-duplicate-text/blob/main/replace-duplicate_text%20Code%20Snap.png">
 
 </body>
 </html>
