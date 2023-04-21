@@ -4,6 +4,9 @@
 <hr>
 <hr>
 <h1 align="center"> <b> ABOUT </b>
+      <br>
+      <br>
+      <hr>
       <p> This Program will help you to replace all the duplicate multiple text instantly &amp; save your much time. </p>
 <hr>
 <hr>
