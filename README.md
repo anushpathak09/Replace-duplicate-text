@@ -1,5 +1,6 @@
 <html>
 <body>
+<p style="background-image: url('img_girl.jpg');">
 <h1><b> TOOL🔨 NAME ---> Replace-duplicate_text </b>
 <hr>
 <hr>
